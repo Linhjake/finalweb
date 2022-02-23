@@ -1,0 +1,175 @@
+header img{ 
+    width: 500px;
+    height: 200px;
+ 
+    }
+    header{
+        text-align: center;
+    }
+    nav ul{
+    list-style: none;
+    display: inline-flex;
+
+    }
+    nav ul li a{
+        text-decoration: none;
+        color: white;
+        margin: 45px;
+        font-size: 25px;
+    }
+    nav{
+        background-color:darkturquoise;
+        text-align: center;
+        
+    }
+   
+    .left {
+        width: 50%;
+        float: left;
+    }
+    .right {
+        width: 50%;
+        float: right;
+    }
+    article .product{
+        width: 30%;
+        text-align: center;
+        margin: 20px;
+        float: left;
+        border: 2px inset black;
+
+    }
+    article{
+        width: 100%;
+ 
+    }
+    article .product img{
+   width: 100%;
+    }
+html{
+    background : url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFRTkTd4GJR4vSs2CrVp9QkrzIhGbTLATjytzbbBcalzZndBKkxffLBj84ZNctQihi8Dg&usqp=CAU') ;
+    background-size:cover ;
+}
+.lh{
+    width: 400px;
+    margin: 70px;
+    margin-right: 200px;
+    border: 3px inset darkcyan;
+}
+.lh p strong{
+    font-size: 20px;
+}
+.lh p{
+    margin: 8px;
+}
+.lh1{
+    background:darkcyan; 
+    text-align: center;
+    color: aliceblue;
+    font-size: 20px;
+}
+.lh1 strong{
+    font-size: 22px;
+}
+.map{
+    margin: 70px;
+    margin-left: 70px;
+    border: 3px inset darkcyan;
+}
+.left{
+    width: 60%;
+    float: left;
+}
+.right{
+    width: 40%;
+    float: right;
+}
+.b03{
+    width: 370px;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 7px;
+    color: black;
+    border:1px solid gray;
+    margin: 10px;
+}
+.b02{
+    width: 370px;
+    height: 23px;
+    font-size: 20px;
+    border-radius: 7px;
+    color: black;
+    border:1px solid gray;
+    margin: 10px;
+}
+.e01{
+    width: 400px;
+    font-size: 15px;
+    margin-top: 20px;
+    padding: 20px ;
+    background:darkcyan; 
+    text-align: center;
+    margin-left: 0px;
+}
+.a01{
+    font-size: 25px;
+
+}
+.b02{
+    width: 300px;
+    height: 23px;
+    font-size: 20px;
+    border-radius: 7px;
+    color: black;
+    border:1px solid gray;
+    margin: 10px;
+}
+.b03{
+    width: 300px;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 7px;
+    color: black;
+    border:1px solid gray;
+    margin: 10px;
+}
+.e00{
+    width: 120px;
+    font-size: 15px;
+    margin: 5px;
+    border-radius: 15px;
+}
+.e01{
+    width: 200px;
+    font-size: 15px;
+    margin: 5px;
+    border-radius: 15px;
+    margin-left: 60px;
+}
+.form{
+    width: 30%;
+    text-align: center;
+    border: 2px inset black;
+    border-radius: 10px;
+    margin-left: 500px;
+    margin-top:20px;
+    margin-bottom: 20px;
+}
+.form a{
+    text-decoration: none;
+    font-size: 18px;
+    color: black;
+}
+.buy strong{
+    font-size: 10px;
+}
+.buy p{
+    text-align: center;
+    font-size: 50px;
+}
+.buy a{
+    text-decoration: none;
+    font-size: 50px;
+    margin-left: 500px;
+    
+}

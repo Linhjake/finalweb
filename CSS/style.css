@@ -1,0 +1,56 @@
+header img{ 
+width: 500px;
+height: 200px;
+
+}
+
+header{
+    text-align: center;
+}
+nav ul{
+list-style: none;
+display: inline-flex;
+
+
+
+}
+nav ul li a{
+    text-decoration: none;
+    color: white;
+    margin: 45px;
+    font-size: 25px;
+}
+nav{
+    background-color:darkturquoise;
+    text-align: center;
+    
+}
+article {
+    width: 55%;
+    float: left;
+   
+}
+aside{
+    width: 45%;
+    float : right;
+
+}
+article img{
+    width: 100%;
+}
+aside img{
+    width: 100%;
+    height: 860px;
+}
+.left {
+    width: 50%;
+    float: left;
+}
+.right {
+    width: 50%;
+    float: right;
+}
+html{
+    background : url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFRTkTd4GJR4vSs2CrVp9QkrzIhGbTLATjytzbbBcalzZndBKkxffLBj84ZNctQihi8Dg&usqp=CAU') ;
+    background-size:cover ;
+}
